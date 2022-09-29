@@ -5,3 +5,10 @@
 ```
 pip install -r requirements.txt
 ```
+
+## Topics
+- PCA
+- KPCA
+- Regularization
+- Robust regressions
+- Bagging
