@@ -28,5 +28,3 @@ if __name__ == '__main__':
 
     print(f"Accuracy KNN with Bagging: {accuracy_score(y_pred_bagg, y_test)}")
 
-
-
